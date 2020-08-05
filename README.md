@@ -36,4 +36,5 @@ Don't forget to keep your passwords; you'll need to type them into the command l
   `twine upload dist/*` <br />
   `pip install prblt_distributions` <br />
   
+  ![prblt_distributions package on PyPi](https://github.com/Charmi-Daftari/Gaussian-and-Binomial-Distribution-Python-Package/blob/master/prblt_distributions.png)
 
