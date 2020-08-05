@@ -28,11 +28,11 @@ Don't forget to keep your passwords; you'll need to type them into the command l
   `python setup.py sdist` <br />
   `pip install twine` <br />
 
-### commands to upload to the pypi test repository
+### Commands to upload to the pypi test repository
   `twine upload --repository-url https://test.pypi.org/legacy/ dist/*` <br />
   `pip install --index-url https://test.pypi.org/simple/ prblt_distributions` <br />
 
-### command to upload to the pypi repository
+### Command to upload to the pypi repository
   `twine upload dist/*` <br />
   `pip install prblt_distributions` <br />
   
