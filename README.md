@@ -37,9 +37,9 @@ Don't forget to keep your passwords; you'll need to type them into the command l
   `pip install prblt_distributions` <br />
   
 ### Implementation:
-`from prblt_distributions import Gaussian,Binomial`
-`Gaussian(10, 7)`
-`Binomial(0.4, 25)`
+`from prblt_distributions import Gaussian,Binomial` <br />
+`Gaussian(10, 7)` <br />
+`Binomial(0.4, 25)` <br />
 
 ![Finalize code](https://github.com/Charmi-Daftari/Gaussian-and-Binomial-Distribution-Python-Package/blob/master/finalize.png)
   
