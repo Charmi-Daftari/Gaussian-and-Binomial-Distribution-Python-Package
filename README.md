@@ -39,8 +39,10 @@ Don't forget to keep your passwords; you'll need to type them into the command l
 ### Implementation:
 `from prblt_distributions import Gaussian,Binomial`
 `Gaussian(10, 7)`
-`Binomial(0.4, 25)"
+`Binomial(0.4, 25)`
 
+![Finalize code](https://github.com/Charmi-Daftari/Gaussian-and-Binomial-Distribution-Python-Package/blob/master/finalize.png)
   
-  ![prblt_distributions package on PyPi](https://github.com/Charmi-Daftari/Gaussian-and-Binomial-Distribution-Python-Package/blob/master/prblt_distributions.png)
+## Import this Python Package and calculate Gaussian and Binomial distributions.
+![prblt_distributions package on PyPi](https://github.com/Charmi-Daftari/Gaussian-and-Binomial-Distribution-Python-Package/blob/master/prblt_distributions.png)
 
